@@ -1,1 +1,3 @@
-** Web Static AirBnB
+# Web Static AirBnB
+
+## Will be edited later
